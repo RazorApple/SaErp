@@ -1,0 +1,13 @@
+{
+    "name": "json-lint-express",
+    "version": "0.0.1",
+    "author": "JSDoggo <vmrelaxed@yahoo.com>",
+    "description": "Super simple RPC.",
+    "license": "MIT",
+    "scripts": {
+        "rpc": "node ./main.js"
+    },
+    "dependencies": {
+        "discord-rpc": "3.0.1"
+    }
+}
